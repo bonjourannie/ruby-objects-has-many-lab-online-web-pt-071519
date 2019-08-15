@@ -26,4 +26,6 @@ class Author
     title.author = self
   end
   
+  def 
+  
 end
